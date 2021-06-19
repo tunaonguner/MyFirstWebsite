@@ -1,0 +1,158 @@
+.the-body {
+  margin: 1% 0.5% 0 0.5%;
+  text-align: center;
+  font-family: Poppins, sans-serif;
+}
+
+.div-cont {
+  margin: 1% 1% 2% 1%;
+  padding: 1% 1% 0 1%;
+  border-radius: 30px;
+  background-color: #C0FEFC;
+}
+
+.cloud-01 {
+  margin: 1% 0 1% 0;
+  position: absolute;
+  right: 5%;
+  top: 5%;
+}
+
+.cloud-02 {
+  margin: 1% 0 1% 0;
+  position: absolute;
+  left: 15%;
+  top: 20%;
+}
+
+.cloud-03 {
+  margin: 1% 0 1% 0;
+  position: absolute;
+  right: 25%;
+  top: 40%;
+}
+
+.cloud-04 {
+  margin: 1% 0 1% 0;
+  position: absolute;
+  left: 3%;
+  top: 50%;
+}
+
+.h1 {
+  margin: auto 0 auto 0;
+  padding-top: 10%;
+  font-size: 450%;
+  font-family: Yellowtail, cursive;
+  color: #04009A;
+}
+
+.info {
+  margin: 0 0 2% 0;
+  padding: 2% 0 6% 0;
+  font-size: 180%;
+  color: #1597BB;
+}
+
+.about {
+  font-size: 400%;
+}
+
+.mountain-img {
+  width: 100%;
+  padding-top: 5%;
+  border-radius: 10px;
+}
+
+.img-coding {
+  margin: 0 6% 6% 0;
+  display: inline-block;
+  width: 20%;
+}
+
+.my-photo {
+  width: 35%;
+  height: 35%;
+  margin: 5% auto 1% auto;
+  border-radius: 50%;
+  border-color: #77ACF1;
+  border-width: 5px;
+  border-style: solid;
+}
+
+.img-edu {
+  margin: 0 0 6% 6%;
+  display: inline-block;
+  width: 20%;
+}
+
+.hello {
+  color: #005F99;
+  font-size: 200%;
+}
+
+.info2 {
+  padding-bottom: 5%;
+  font-size: 200%;
+  color: #005F99;
+}
+
+.profile {
+  margin: 1% 1% 1% 1%;
+  padding: 1% 1% 0 1%;
+  border-radius: 30px;
+  background-color: #00EAD3;
+}
+
+.skills {
+  margin: 2% 1% 2% 1%;
+  background-color: #00E0FF;
+  border-radius: 30px;
+  padding-top: 1%;
+  padding-bottom: 3%;
+}
+
+.skill-row_1 {
+  display: inline-block;
+  width: 45%;
+  color: #150E56;
+  background-color: #E4FBFF;
+  border-radius: 30px;
+  margin: 1% 1% 1% 0;
+}
+
+.sao {
+  margin-top: 6%;
+  height: 50%;
+  width: 50%;
+  border-radius: 50%;
+  border-color: #150E56;
+  border-width: 5px;
+  border-style: solid;
+}
+
+.box-1 {
+  margin: 5%;
+}
+
+.the-list {
+  text-align: left;
+  font-size: 100%;
+}
+
+.divul {
+  margin: 3%;
+  display: inline-block;
+}
+
+.bottom-container {
+  margin: 1% 1% 1% 1%;
+  padding: 1% 1% 0 1%;
+  border-radius: 30px;
+  color: #0C056D;
+  background-color: #74F9FF;
+}
+
+.ending {
+  padding-bottom: 3%;
+}
